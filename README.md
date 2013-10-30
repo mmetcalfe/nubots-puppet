@@ -1,3 +1,7 @@
+**Note:** This repository is largely deprecated in favour of
+[the NUbots' Vagrantfile](https://github.com/nubots/NUClearPort/blob/478175418d4078b23d2c4dba148cf618c9835611/Vagrantfile)
+and its associated puppet config.
+
 nubots-puppet
 =============
 
